@@ -1,0 +1,51 @@
+@media screen and (max-width:1268px) {
+    .iconbox{
+        display: none;
+    }
+    .naviganionnn{
+        display: none;
+    }
+    .burger{
+        display: block;
+        position: absolute;
+        font-size: 40px;
+        top: 3.5%;
+    }
+    .ser{
+        margin-left:-20px;
+    }
+    .where-you,
+    .img-box2,
+    .tips-box,
+    .choice{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    .imgfour,
+    .imgfive,
+    .imgsix,
+    .img-4,
+    .img-5,
+    .img-6{
+        margin-bottom: 20px;
+    }
+    .img-box{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+    }
+    .foot-er,
+    .minibaner{
+        display: none;
+    }
+}
+@media screen and(max-width:586px){
+    .text-box{
+        display: none;
+    }
+
+}

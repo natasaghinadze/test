@@ -37,24 +37,6 @@ header{
     right: 0;
     top: 0;
 }
-/* .navdiv{
-    padding: 30px 20px;
-    display: flex;
-    align-items: center;
-    max-width: 100%;
-    width: 100%;
-}
-.navdiv ul{
-    display: flex;
-    list-style-type: none;
-}
-.navdiv a{
-    text-decoration: none;
-    margin-right: 30px;
-    font-size: 15px;
-    color: #040e27;
-    font-family: "Rubik",sans-serif;
-} */
 .iconbox{
     width: 600px;
     display: flex;

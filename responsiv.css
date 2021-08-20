@@ -50,8 +50,8 @@
     }
     .navbar-ul a{
         text-decoration: none;
-        font-size: 25px;
-        color: white;
+        font-size: 25px !important;
+        color: white !important;
         font-weight: bold;
     }
 }

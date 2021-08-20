@@ -1,8 +1,8 @@
 a{
-    text-decoration: none !important;
+    text-decoration: none;
 }
 li{
-    list-style-type: none !important;
+    list-style-type: none;
 }
 body, html{
     margin: 0;
@@ -17,7 +17,7 @@ header{
     padding-top: 30px;
     padding-bottom: 20px;
     display: flex;
-    align-items: center !important;
+    align-items: center;
 }
 .navbar-ul{
     width: 600px;
@@ -26,9 +26,9 @@ header{
     margin-top: 15px;
 }
 .nav-li a{
-    font-size: 15px !important;
-    color: #040e27 !important;
-    font-family: "Rubik",sans-serif !important;
+    font-size: 15px;
+    color: #040e27;
+    font-family: "Rubik",sans-serif;
 }
 .burger{
     display: none;

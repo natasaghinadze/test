@@ -1,4 +1,4 @@
-@media screen and (max-width:1268px) {
+@media screen and (max-width:1368px) {
     .iconbox{
         display: none;
     }
@@ -42,18 +42,6 @@
     .minibaner{
         display: none;
     }
-    /* .navbar-ul{
-        flex-direction: column;
-        position: absolute;
-        right: -408px;
-        top: 93px;
-    }
-    .navbar-ul a{
-        text-decoration: none;
-        font-size: 25px !important;
-        color: white !important;
-        font-weight: bold;
-    } */
 }
 @media screen and(max-width:586px){
     .text-box{

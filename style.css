@@ -105,6 +105,7 @@ header{
     transition: 1.5s;
 }
 .text-box{
+    padding-top: 164px;
     text-align: center;
 }
 .where-you{

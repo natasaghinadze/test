@@ -9,7 +9,7 @@
         display: block;
         position: absolute;
         font-size: 40px;
-        top: 3.5%;
+        top: 2.5%;
     }
     .ser{
         margin-left:-20px;
@@ -41,6 +41,18 @@
     .foot-er,
     .minibaner{
         display: none;
+    }
+    .navbar-ul{
+        flex-direction: column;
+        position: absolute;
+        right: -408px;
+        top: 93px;
+    }
+    .navbar-ul a{
+        text-decoration: none;
+        font-size: 25px;
+        color: white;
+        font-weight: bold;
     }
 }
 @media screen and(max-width:586px){

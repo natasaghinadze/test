@@ -5,12 +5,6 @@
     .navbar-ul{
         display: none;
     }
-    /* .burger{
-        display: block;
-        position: absolute;
-        font-size: 40px;
-        top: 2.5%;
-    } */
     #menu{
         display: block;
     }
@@ -20,7 +14,6 @@
         font-size: 20px;
         margin-bottom: 5px;
     }
-    
     .ser{
         margin-left:-20px;
     }

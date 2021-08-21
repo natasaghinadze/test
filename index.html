@@ -8,6 +8,8 @@
     <title>Travelo</title>
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="responsiv.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?
+    family=PT+Sans">
 </head>
 <body>
     <main>
@@ -17,7 +19,37 @@
                     <img class="logo" src="image/logo.webp" alt="logo">
                 </a>
 
-                <nav class="naviganionnn">
+                <div id="menu-bar">
+                    <div id="menu" onclick="onClickmenu()">
+                        <div id="bar1" class="bar"></div>
+                        <div id="bar2" class="bar"></div>
+                        <div id="bar3" class="bar"></div>
+                    </div>
+                    <nav id="navigation">
+                        <ul class="nav-ul">
+                            <li>
+                                <a href="#">Home</a>
+                            </li>
+                            <li>
+                                <a href="#">About</a>
+                            </li>
+                            <li>
+                                <a href="#">Destination</a>
+                            </li>
+                            <li>
+                                <a href="#">Pages</a>
+                            </li>
+                            <li>
+                                <a href="#">Blog</a>
+                            </li>
+                            <li>
+                                <a href="#">Contact</a>
+                            </li>
+                        </ul>
+                 </nav>
+                </div>
+
+                
                     <ul class="navbar-ul">
                         <li class="nav-li">
                             <a href="#">Home</a>
@@ -38,10 +70,7 @@
                             <a href="#">Contact</a>
                         </li>
                     </ul>
-                </nav>
-                <div class="burger" id="burger-bar">
-                    <i class="fas fa-bars"></i>
-                </div>
+               
           </div>
             <div class="iconbox">
                     <p> <i class="fas fa-phone-alt"></i> 10(256)-928 256</p>
@@ -209,5 +238,6 @@
             </div>
         </footer>
     </main>
+    <script src="script.js"></script>
 </body>
 </html>

@@ -2,14 +2,23 @@
     .iconbox{
         display: none;
     }
-    .naviganionnn{
+    .navbar-ul{
         display: none;
     }
-    .burger{
+    /* .burger{
         display: block;
         position: absolute;
         font-size: 40px;
         top: 2.5%;
+    } */
+    #menu{
+        display: block;
+    }
+    nav li, a{
+        color: #ffff;
+        text-decoration: none;
+        font-size: 20px;
+        margin-bottom: 5px;
     }
     .ser{
         margin-left:-20px;
@@ -40,11 +49,6 @@
     }
     .foot-er,
     .minibaner{
-        display: none;
-    }
-}
-@media screen and(max-width:586px){
-    .text-box{
         display: none;
     }
 

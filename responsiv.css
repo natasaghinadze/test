@@ -20,6 +20,9 @@
         font-size: 20px;
         margin-bottom: 5px;
     }
+    .navdiv{
+        padding-bottom: 0;
+    }
     .ser{
         margin-left:-20px;
     }
